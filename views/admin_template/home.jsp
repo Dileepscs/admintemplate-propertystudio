@@ -15,11 +15,9 @@
     <section id="content">
         <%@ include file="header.jsp" %>
         <div>
-        	<img
-                src="https://img.jamesedition.com/listing_images/2024/02/16/15/23/15/905c1df6-34e3-4d46-8f4b-4ff6688eaf7d/je/760x470xc.jpg"
-                alt="property"
-                height=100%
-                width=100%/>
+
+                <!--    Implement your view body here          -->
+               
         </div>
         	
         
